@@ -1,4 +1,1 @@
-# 家計簿アプリ MyMoney# mymoney
-# mymoney
-# mymoney
-# mymoney
+# 家計簿アプリ MyMoney
